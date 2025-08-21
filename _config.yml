@@ -1,0 +1,25 @@
+title: "Ayush's Portfolio"
+description: "Data Science & Analytics Projects"
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+# Personal info
+author:
+  name   : "Ayush"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Data Science & Analytics Enthusiast | Python | Machine Learning"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your@email.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+    - label: "Resume"
+      icon: "fas fa-file-pdf"
+      url: "/assets/resume.pdf"
