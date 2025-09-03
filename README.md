@@ -3,7 +3,7 @@
 > Tech enthusiast, data lover, and problem-solver. I code with purpose, analyze with curiosity, and build with vision. Always ready to turn challenges into learning opportunities.
 
 **Email:** ayushbarad9113@gmail.com | **Phone:** +91 88495 28534 | **Location:** Surat, Gujarat  
-**LinkedIn:** [Your LinkedIn Profile URL]
+**LinkedIn:** (https://www.linkedin.com/in/ayush-barad-982008244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
