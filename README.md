@@ -1,5 +1,3 @@
-# ayushdatasc.github.io
-
 # Ayushsinh Barad | Data Scientist / Data Analyst
 
 > Tech enthusiast, data lover, and problem-solver. I code with purpose, analyze with curiosity, and build with vision. Always ready to turn challenges into learning opportunities.
